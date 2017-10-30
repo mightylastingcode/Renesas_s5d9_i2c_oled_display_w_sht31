@@ -12,3 +12,8 @@ File Description:
 3   sht31.c/h (subroutines for interfacing with the sht31 sensor)
 4.  ssd1306_oled.c/h (subroutines for the OLED module operations)
 5.  en210.c/h (subroutines for AMS EN210 operations - not used in this tutorial but kept here.)
+
+Datasheet:
+SENSIRION SHT3x-DIS 314010179_SMD Temperature and Humidity Sensor Datasheets.pdf (Temperature sensor datasheet)
+OLED Sepecification.pdf (OLED display module spec sheet)
+SSD1306.pdf (OLED display driver chip datasheet)
