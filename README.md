@@ -17,3 +17,5 @@ Datasheet:
 SENSIRION SHT3x-DIS 314010179_SMD Temperature and Humidity Sensor Datasheets.pdf (Temperature sensor datasheet)
 OLED Sepecification.pdf (OLED display module spec sheet)
 SSD1306.pdf (OLED display driver chip datasheet)
+
+https://www.miketechuniverse.com/single-post/2017/10/30/I2C-Tutorial-for-Renesas-S5D9-board-Add-an-External-SHT31-sensor-Part2
